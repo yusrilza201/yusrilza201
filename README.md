@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yusrilza201
+- 👋 Hi, I’m Yusril Ihza
 - 👀 I’m interested in Database and machine learning
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on open-source projects for my experience
